@@ -1,4 +1,4 @@
-<h1 align="center"> 꾸까 클론 과제 </h1>
+<h1 align="center"> 바닐라 JavaScript로 구현한 꽃 배달 웹 페이지 </h1>
 
 <h3 align="center"> 서비스 링크: https://console-lo9-kukka.netlify.app/ </h3>
 
