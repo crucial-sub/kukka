@@ -13,16 +13,7 @@
 
 <br/>
 
-## 🙋‍♀️🙋‍♂️ 팀원
 
-|                                           프로필                                           |                    이름                     | 담당 기능     |
-| :----------------------------------------------------------------------------------------: | :-----------------------------------------: | :------------ |
-| <img src="https://avatars.githubusercontent.com/Ubermensch0608" width="100" height="100"/> | [우종원](https://github.com/Ubermensch0608) | 푸터, 팝업 창 |
-|  <img src="https://avatars.githubusercontent.com/crucial-sub" width="100" height="100"/>   |  [박중섭](https://github.com/crucial-sub)   | GNB           |
-|    <img src="https://avatars.githubusercontent.com/ttaerrim" width="100" height="100"/>    |    [이태림](https://github.com/ttaerrim)    | 동영상, 배너  |
-|   <img src="https://avatars.githubusercontent.com/penguin311" width="100" height="100"/>   |   [임수영](https://github.com/penguin311)   | 플라워 클래스 |
-
-<br/>
 
 ## 🚀 스택
 
@@ -40,6 +31,9 @@
 <br/>
 
 ## ✨ 구현 사항
+
+> **`맡은 역할`** <br>
+> GNB, 플라워클래스 태그 기능 구현
 
 사용 기술
 
@@ -87,7 +81,13 @@ GNB
 
 ## 🗺 구현 Preivew
 
-   <img width="500" src="https://user-images.githubusercontent.com/28384562/155220275-654b912d-fc34-4e09-8312-9173fc1043d5.gif" />
+1. GNB
+
+<img width="400" src="https://user-images.githubusercontent.com/87363422/181026941-ccde1e40-dca5-4d03-b1fd-9b5f62fd26e9.gif" />
+
+2. 플라워클래스 태그 기능 구현
+
+<img width="400" src="https://user-images.githubusercontent.com/87363422/181026983-f1845623-f332-425a-8a05-271f9228eee3.gif" />
 
 ## 🗒 프로젝트 진행 과정 및 구현 사항
 
@@ -133,24 +133,3 @@ $ npm install || yarn
             ├── assets
             ├── components
             └── styles
-
-## 💡 과제 후기
-
-### **우종원** 🍀
-
-리액트에 더 익숙해져 있는 이 시점에 많은 생각을 할 수 있었던 프로젝트였습니다. CRA세팅으로 모든 것이 한 번에 마법처럼 준비되던 것의 이면에는 사실 수 많은 것들이 들어 있었다는 것을 체감할 수 있었습니다. babel 그리고 webpack에 대해 관심을 갖고 공부할 수 있었으며, 크로스브라우징을 고려하는 개발이 쉽지 않지만, 다양한 사용자를 고려하는 것이 필수인 개발자에개는 언젠가는 맞닥드릴 운명같은 것이 아닐가 생각했습니다.
-
-### **박중섭** ✨
-
-
-오랜만에 리액트 없이 바닐라 자바스크립트와 HTML, CSS로 개발을 하면서 기본기를 되돌아보는 시간이었습니다. 이번 프로젝트에선 평소에 고려하지 않았던 IE8 브라우저 호환성을 직접 맞추려 시도하면서 많은 시행착오를 겪었고, 그 과정에서 크로스 브라우징 처리에 대한 방법과 Babel과 같은 컴파일러나 webpack과 같은 번들러의 중요성을 다시금 깨달을 수 있었습니다.
-
-### **이태림** 🐯
-
-IE8까지 크로스 브라우징 처리하는 것이 생각보다 쉬운 일이 아니라는 걸 알고 가는 프로젝트였습니다. babel과 webpack이 어떤 일을 하는지 명확히 알고 있지 못했는데, 프로젝트에 반영은 하지 않았지만 직접 사용해 보며 프로젝트에서 어떤 역할을 하는 도구들인지 알게 되었습니다.
-
-### **임수영** 🐧
-
-프레임워크 없이 Vanilla JS로 컴포넌트를 나눠 작업하는 것을 경험해 볼 수있는 좋은 과제였던 것 같습니다.
-또한 IE8 크로스 브라우징을 위해 JS에서 map 이 아닌 for 문을 사용하는 등의 코드 구현으로 크로스 브라우징 방법을 알게 되었습니다.
-
